@@ -1,2 +1,0 @@
-# emiliamanzano.github.io
-site
