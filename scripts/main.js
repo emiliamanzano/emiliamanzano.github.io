@@ -1,4 +1,4 @@
-const myImage = document.querySelector("img")
+const myImage = document.querySelector("img");
 //ISSO É UM COMENTÁRIO JAVA//
 myImage.addEventListener("click", () => {
   const mySrc = myImg.getAttribute("src");
@@ -8,3 +8,4 @@ myImage.addEventListener("click", () => {
     myImage.setAttribute("src" = "images/imagem_emilia.png");
   }
 });
+
