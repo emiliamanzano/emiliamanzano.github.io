@@ -1,5 +1,17 @@
-p {
-	color: red;
-	width: 500px;
-	border: 1px solid black;
+html {
+/*ISSO É UM COMENTÁRIO .CSS*/
+	font-size: 10px;
+	font-family: "Buda", serif;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+}
+
+p,
+li {
+	fonte-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
 }
