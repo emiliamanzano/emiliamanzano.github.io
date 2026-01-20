@@ -1,6 +1,6 @@
 html {
 /*ISSO É UM COMENTÁRIO .CSS*/
-	font-size: 10px;
+	font-size: 16px;
 	font-family: "Buda", serif;
 	background-color: #66cd63;
 }
@@ -12,8 +12,9 @@ h1 {
 
 p,
 li {
-	fonte-size: 16px;
+	fonte-size: 20px;
 	line-height: 2;
 	letter-spacing: 1px;
 }
+
 
