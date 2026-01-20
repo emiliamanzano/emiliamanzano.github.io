@@ -14,8 +14,12 @@ let myHeading = document.querySelector("h1");
 
 function setUserName() {
   const myName = prompt("Qual o seu nome?");
+  if (!myName) {
+    setUserName();
+  } else {
   localStorage.setItem("name", myName);
   myHeading.textContent = "Bem-vinde, " + myName;
+  }
 }
 
 if (!localStorage.getItem("name")) {
@@ -28,4 +32,5 @@ if (!localStorage.getItem("name")) {
 myButton.addEventListener("click", () => {
   setUserName();
 });
+
 
