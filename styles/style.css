@@ -2,6 +2,7 @@ html {
 /*ISSO É UM COMENTÁRIO .CSS*/
 	font-size: 10px;
 	font-family: "Buda", serif;
+	background-color: #66cd63;
 }
 
 h1 {
@@ -15,3 +16,4 @@ li {
 	line-height: 2;
 	letter-spacing: 1px;
 }
+
