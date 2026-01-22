@@ -14,6 +14,12 @@ h1 {
 	color: #66cd63;
 }
 
+h2 {
+	margin: 0;
+	padding: 20px;
+	color: #66cd63;
+}
+
 p,
 li {
 	fonte-size: 20px;
@@ -34,4 +40,5 @@ img {
 	margin: 0 auto;
 	max-width: 100%;
 }
+
 
