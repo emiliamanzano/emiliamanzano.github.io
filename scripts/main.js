@@ -10,7 +10,7 @@ myImage.addEventListener("click", () => {
 });
 
 let myButton = document.querySelector("button");
-let myHeading = document.querySelector("h1");
+let myHeading = document.querySelector("h2");
 
 function setUserName() {
   const myName = prompt("Qual o seu nome?");
@@ -32,5 +32,6 @@ if (!localStorage.getItem("name")) {
 myButton.addEventListener("click", () => {
   setUserName();
 });
+
 
 
