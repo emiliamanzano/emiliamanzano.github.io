@@ -41,4 +41,13 @@ img {
 	max-width: 100%;
 }
 
+.logo-inline, .heading-text {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.logo-inline {
+	max-height: 40px;
+	margin-right: 10px;
+
 
