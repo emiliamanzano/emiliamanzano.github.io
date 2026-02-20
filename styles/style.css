@@ -47,14 +47,6 @@ img {
 }
 
 .logo-inline {
-	max-height: 80px;
-	margin-right: 10px;
+	max-height: 100px;
 }
 
-.heading-text {
-	font-size: 60px;
-	margin: 0;
-	padding: 20px;
-	text-shadow: 3px 3px 1px black;
-	color: #66cd63;
-}
