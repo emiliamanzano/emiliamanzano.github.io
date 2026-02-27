@@ -83,10 +83,12 @@ nav li {
 
 nav a {
   display: inline-block;
-  font-size: 2rem;
+  font-size: 20px;
   text-transform: uppercase;
   text-decoration: none;
-  color: black;
+  color: #f0e0f1;
+  flex: 1;
 }
+
 
 
