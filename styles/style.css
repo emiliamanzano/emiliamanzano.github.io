@@ -62,7 +62,7 @@ img {
 }
 
 nav {
-  height: 80px;
+  height: 100px;
   background-color: #66cd63;
   display: flex;
   margin-bottom: 10px;
@@ -89,6 +89,7 @@ nav a {
   color: #f0e0f1;
   flex: 1;
 }
+
 
 
 
