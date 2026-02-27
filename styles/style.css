@@ -55,10 +55,10 @@ img {
 
 .heading-text {
 	font-size: 80px;
-	margin: 0 0 0 6%;
+	margin: 0 0 0 1%;
 	padding: 20px;
 	text-shadow: 3px 3px 1px black;
-	color: #66cda3;
+	color: #66cd63;
 }
 
 nav {
@@ -88,4 +88,5 @@ nav a {
   text-decoration: none;
   color: black;
 }
+
 
